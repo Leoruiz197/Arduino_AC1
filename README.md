@@ -9,8 +9,8 @@ Nossa primeira AC, observe bem o codigo, procure pelos erros
 
 ###Funcionalidades esperadas:
 
--teste
--teste2
+- teste
+- teste2
 
 LINKS UTEIS:
 
