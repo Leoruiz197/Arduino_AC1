@@ -38,3 +38,4 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - **millis():** https://www.arduino.cc/reference/pt/language/functions/time/millis/
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
+- **Shield.io:** https://shields.io/
