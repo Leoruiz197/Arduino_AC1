@@ -6,7 +6,7 @@
 
 ![](https://github.com/Leoruiz197/Arduino_AC1/blob/main/AC1.png)
 
-## Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
+## **O Problema** Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
 
 ## Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
 
@@ -24,12 +24,12 @@
 
 ### Desconto de nota individual
 
-** Caso um dos integrantes venha a ter um desempenho inconsistente na colaboração com o projeto em comparação com os demais da equipe o mesmo pode ter sua nota parcial ou total descontada. **
+**Caso um dos integrantes venha a ter um desempenho inconsistente na colaboração com o projeto em comparação com os demais da equipe o mesmo pode ter sua nota parcial ou total descontada.**
 
 LINKS UTEIS:
 
-** Funções: ** https://www.arduino.cc/reference/pt/
-** map():  ** https://www.arduino.cc/reference/pt/language/functions/math/map/
-** millis(): **https://www.arduino.cc/reference/pt/language/functions/time/millis/
+**Funções:** https://www.arduino.cc/reference/pt/
+**map():** https://www.arduino.cc/reference/pt/language/functions/math/map/
+**millis():** https://www.arduino.cc/reference/pt/language/functions/time/millis/
 
-** Editor de README.md: ** https://pandao.github.io/editor.md/en.html
+**Editor de README.md:** https://pandao.github.io/editor.md/en.html
