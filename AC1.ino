@@ -1,12 +1,12 @@
 //variaveis da led
 const int vermelho = 5;
 const int verde = 6;
-const int azul = 7
-
-bool estadoLedVermelho = false;
+const int azul = 7;
 
 const int botao1 = 2;
+const int botao2 = 3;
 unsigned long lastDebounceTime1 = 0;
+unsigned long lastDebounceTime2 = 0;
 const int botaoDelay = 100;
 
 void setup()
@@ -16,7 +16,7 @@ void setup()
   
   pinMode(vermelho, OUTPUT);
   pinMode(verde, OUTPUT);
-  pinMode(azul, saida);
+  pinMode(azul, OUTPUT);
   
   Serial.begin(9600);
 	
@@ -27,24 +27,32 @@ void setup()
 
 void loop()
 {
+  //toque do botao 1
   if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
   	Serial.println("botao 1 apertado");
-    ledVermelho();
+    ledVermelho(true);
   	lastDebounceTime1 = millis();
   }
+  
+  //toque do botao 2
+  if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+  	Serial.println("botao 2 apertado");
+    ledVermelho(false);
+  	lastDebounceTime2 = millis();
+  }
+  
   
   if(getTemperatura() > 30){
     ledAzul(true);
   }else{
-  	ledAzul(falso); 
+  	ledAzul(false); 
   }
   	
   delay(10);
 }
 
-void ledVermelho(){
-  estadoLedVermelho = !estadoLedVermelho;
-  digitalWrite(vermelho,estadoLedVermelho);
+void ledVermelho(bool estado){
+  digitalWrite(vermelho,estado);
 }
 void ledVerde(){
  //precisa fazer  
