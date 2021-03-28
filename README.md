@@ -7,6 +7,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
 
 ![](https://github.com/Leoruiz197/Arduino_AC1/blob/Leoruiz197-patch-1/me.jpg)
+![](https://github.com/Leoruiz197/Arduino_AC1/blob/Leoruiz197-patch-1/AC1-esquema.jpg)
 
 ## **O PROBLEMA:** 
 
