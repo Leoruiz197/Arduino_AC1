@@ -33,6 +33,7 @@ void loop()
   	lastDebounceTime1 = millis();
   }
   
+  //verificador de tempetura
   if(getTemperatura() > 30){
     ledAzul(true);
   }else{
