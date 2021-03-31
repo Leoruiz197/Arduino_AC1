@@ -42,3 +42,17 @@ void loop()
   	lastDebounceTime1 = millis();
   }
   if(getTemperatura() > 15){
+ledAzul(true);
+    Serial.println("Temperatura acima do ideal");
+  }else{
+  	ledAzul(false); 
+    Serial.println("Temperatura OK");
+  }
+   if(getLuminosidade() > 5){
+    ledVerde(true);
+     Serial.println("Luiminosidade acima do ideal");
+  }else{
+  	ledVerde(false); 
+     Serial.println("Luminosidade OK");
+  }	
+  delay(10);
