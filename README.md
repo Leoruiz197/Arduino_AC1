@@ -36,3 +36,4 @@ Nosso grupo foi contratado para realizar a automação do chão de fábrica de u
 - Adicionamos um botão para ligar e outro para desligar a produção indicados pelo led vermelho.
 - Adicionamos leitura do sensor de temperatura. Ao atingir 15℃, o led azul vai acender e somente apaga quando a temperatura for mais baixa que isso.
 - Adicionamos leitura do sensor de luminosidade. Ao indicar um valor acima de 5, a luminosidade do ambiente está muito alta e será informada no serial. O led verde deve permanecer aceso até a luminosidade diminuir.
+
