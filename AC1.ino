@@ -11,3 +11,6 @@ const int botaoDelay = 100;
 
 const int botao2 = 3;
 unsigned long lastDebounceTime2 = 0;
+
+
+void setup()
