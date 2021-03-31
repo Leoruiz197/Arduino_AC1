@@ -14,3 +14,17 @@ unsigned long lastDebounceTime2 = 0;
 
 
 void setup()
+{
+  pinMode(A0, INPUT);
+  pinMode(A1, INPUT);
+  
+  pinMode(vermelho, OUTPUT);
+  pinMode(verde, OUTPUT);
+  pinMode(azul, OUTPUT);
+  
+  Serial.begin(9600);
+	
+  Serial.println("AC1 - Meu Primeiro Projeto 2021");
+  Serial.println("V1.0");
+  Serial.println("Grupo: MY LITTLE QUEENS");
+}
