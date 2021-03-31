@@ -56,3 +56,16 @@ ledAzul(true);
      Serial.println("Luminosidade OK");
   }	
   delay(10);
+}
+
+void ledVermelho(bool estado){
+  digitalWrite(vermelho,estado);
+}
+void ledVerde(bool estado){
+     digitalWrite(verde, estado); // valor acima de 5 da luminosidade , deve ser informado o led verde   
+}
+void ledAzul(bool estado){
+     digitalWrite(azul, estado); // ao atingir 15 o led azul acende
+}
+
+int getTemperatura(){
