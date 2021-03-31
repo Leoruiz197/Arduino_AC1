@@ -28,3 +28,17 @@ void setup()
   Serial.println("V1.0");
   Serial.println("Grupo: MY LITTLE QUEENS");
 }
+
+void loop()
+{
+  if((millis() - lastDebounceTime1) > botaoDelay && digitalRead(botao1)){
+  	Serial.println("Produção iniciada");
+    ledVermelho(true);
+  	lastDebounceTime1 = millis();
+  }
+   if((millis() - lastDebounceTime2) > botaoDelay && digitalRead(botao2)){
+  	Serial.println("Produção finalizada");
+    ledVermelho(false);
+  	lastDebounceTime1 = millis();
+  }
+  if(getTemperatura() > 15){
