@@ -5,25 +5,23 @@ https://github.com/My-Little-Queens/Arduino_AC1/blob/main/anaclaracoding.PNG
 
 Oii, meu nome é Ana Clara Gonçalves, sou do 2RA e gosto muito de dançar, desenhar, ler, ver animes e ouvir música, sou muito curiosa e adoro aprender coisas novas.
 
-
-![](https://anyimage.io/storage/uploads/ed01d3a6d0e94e13237953a640f4d6d7)
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/babicoding.PNG
 
 Oii, eu sou a Bárbara do 2RA, adoro ler, falar sobre futebol, ouvir música (ouço música para tudo), e odeio mentira.
 
-![](https://anyimage.io/storage/uploads/e3f3fad27154293db5746ca6599ee0c2)
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/carolcoding.PNG
 
 Oiee, me chamo Caroline Seiffarth, sou do 2RA, gosto de fazer relacionamentos e busco curtir ao máximo, adoro viajar e tentar coisas novas, adrenalina é meu gás hahaha
 
-![](https://anyimage.io/storage/uploads/67a8faf407307bd26a51d2fd42142296)
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/luccacoding.PNG
 
 Oi, sou o Lucca Fracassi do 2RA. Gosto de jogar videogames, ver filmes, escutar música (principalmente pop) e ficar navegando pelo twitter. Amo fazer novas amizades e conhecer as pessoas.
 
-![](https://anyimage.io/storage/uploads/8814ae7b449c067fe29ac65c5dcaac30)
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/dudacoding.PNG
 
 Oiee, meu nome é Maria Eduarda (Pinezi) sou do 2RA gosto de: Ler,assistir séries e filmes,ouvir música e sair com os meu amigos.
 
-![](https://anyimage.io/storage/uploads/6e649bd5ebbc18948b8df1dfc6b5d0ad)
-
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/marinacoding.PNG
 Oiiees, meu nome é Marina Marchetti sou do 2ºRA gosto de sair com meus amigos, ver filme, ouvir músicas, fazer call e adoro experimentar coisas novas.
 
 ## *O PROBLEMA:*
