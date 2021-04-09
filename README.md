@@ -1,7 +1,7 @@
 #Arduino_AC1
 ## My Little Queens
 
-![](https://anyimage.io/storage/uploads/60b05d2331b9fc1056c1b0431d1b5f9e)
+https://github.com/My-Little-Queens/Arduino_AC1/blob/main/anaclaracoding.PNG 
 
 Oii, meu nome é Ana Clara Gonçalves, sou do 2RA e gosto muito de dançar, desenhar, ler, ver animes e ouvir música, sou muito curiosa e adoro aprender coisas novas.
 
